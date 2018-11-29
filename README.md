@@ -1,2 +1,2 @@
 # Projects
-Repo containing projects for database management or projects I attempt to do while experimenting in other programming languages.
+Repo containing projects I do while experimenting with various programming languages.
