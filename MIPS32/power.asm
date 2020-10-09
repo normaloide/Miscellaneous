@@ -1,8 +1,8 @@
 	.data
 str1:	.asciiz "\nGive me the base:\n"
-.align 2
+        .align 2
 str2:	.asciiz "\nGive me the power:\n"
-.align 2
+        .align 2
 
 base:	.word
 	
